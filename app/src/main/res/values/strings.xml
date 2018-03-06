@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permissions Example</string>
+    <string name="permissions_in_activity">Permissions in Activity</string>
+    <string name="permissions_in_fragment">Permissions in Fragment</string>
+    <string name="get_camera_permission">get camera permission</string>
+    <string name="get_camera_and_mic_permissions">get camera and mic permissions</string>
+</resources>
